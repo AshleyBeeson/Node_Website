@@ -1,0 +1,10 @@
+{
+"games":[
+    {
+        "name":"Villainous",
+        "base":"http://external.kongregate-games.com/gamez/0011/7271/live/",
+        "src":"http://external.kongregate-games.com/gamez/0011/7271/live/embeddable_117271.swf",
+        "type": "application/x-shockwave-flash"
+}
+]
+}
